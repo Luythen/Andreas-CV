@@ -1,0 +1,12 @@
+.text {
+    text-align: center;
+    font-size: 11.5rem;
+}
+
+.bottom {
+    margin-top: -6.5rem;
+}
+
+.xl-icon {
+    font-size: 6rem !important;
+}
